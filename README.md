@@ -8,7 +8,4 @@ cmake -B build
 cmake --build build
 build/app > image.ppm
 ```
-```
-```
-```
-```
+
